@@ -1,17 +1,27 @@
 [
     {
-        "title": "Who Are We?",
+        "title": "Who",
         "image": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/SplWallpapers/SPLWallpaper_WallpaperGeneric1.png",
-        "description": "A small team of security researchers who got really pissed off that content creators keep trashing the educational industry and want to add our contributions to fix it! "
+        "description": "Started by some nerd who just wanted to spend time building things in their room who realized most people only care about ROI"
     },
     {
-        "title": "Why Us > Others?",
+        "title": "What?",
         "image": "https://raw.githubusercontent.com/SkyPenguinLabs/SPL-CourseDemos/refs/heads/main/CourseDemoSS/LoadsOfInfo.png",
-        "description": "Unlike most educational providers, we give: continuous deals on all products, always have free content to release, let you preview & demo up to 20+ pages for all digital written content, maintain and produce our own artwork, not AI generated BS, not AI engineered, not even AI grown. So, should we list more? Cause we can? We do what everybody else in today's world chooses to run away from: actual development. "
+        "description": "An organization aimed to making you remember who we are through our unique Product/Consumer Experience, Security Research & Development, and Quality product that always delivers"
     },
     {
-        "title": "Who needs us?",
-        "image": "why?",
-        "description": "Curious to learn? Tired of AI content? Tired of content creators saying 'we have the golden path' and delivering shit on a silver platter? Then you are mean't for us. We don't promise to give you the path to success - we admit this is personal and is not viable to give. But, we will promise to deliver high quality, specific, niche educative and quantitative information that is affordable for everybody. We don't: make you sign up to a platform, try to push you to sales teams, try to push you to give us an email or all that nonsense. Simply browse, and enjoy! ^_^  "
+        "title": "When?",
+        "image": "",
+        "description": "2025, the same year DoD became DoW"
+    },
+    {
+        "title": "How?",
+        "image": "",
+        "description": "We aim to change the way people feel about brands in the cybersecurity space through proper ethical financial models, quality research, handmade and hand designed product, and niche areas of interest."
+    },
+    {
+        "title": "Why?",
+        "image": "",
+        "description": "The cybersecurity industry, and the tech world in general, is cluttered with hype, inflated promises, and overpriced 'guru' programs. We're taking a different approach: honest, experience-driven, and focused on creating real value without chasing ROI metrics or venture capital trends."
     }
 ]
